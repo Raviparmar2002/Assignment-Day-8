@@ -1,0 +1,16 @@
+Dell > HP > ASUS > Lenovo > Acer
+8 GB RAM (4 GB is also enough,) As a developer we doesn't require more.
+Win 10 64 bit OS
+Laptop life depends on processer not on RAM.
+Core i5 8th - 10th (2.3+ GHz speed required)
+500 GB HDD is enough. (1 TB is better but not required)
+At least 128 GB SSD required. 
+3 cell Battery (  5 - 6 hrs) 
+[ Too hard to find in such budget,
+  2 cell (3-4 hrs) ]
+Dedicated Graphics (2 GB atleast)
+
+You can compromise in 
+		     Battery
+		     Hard disc (till 500gb)
+
